@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EziooxD
+- 👋 Hi, I’m Aman Kumar
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++ Python
+- 🌱 I’m currently learning Java, Python, JavaScript
 - 💞️ I’m looking to collaborate on 'whatever the place in which you are comfortable'
 - 📫 How to reach me -: alhabibi come to dubai
 
